@@ -15,7 +15,7 @@ body{
     justify-content: space-around;
     background-color: #06385e;
     border-radius: 20px;
-    height: 45vh;
+    height: 35vh;
     width: 43vw;
     box-shadow: 1px 1px 10px rgb(35, 201, 193);
 }
@@ -33,9 +33,12 @@ body{
 }
 .btn-conatiner{
     text-align: center;
-    margin-top: 30px;
+    /* margin-top: 30px; */
+    justify-content: space-around;
 }
 .btn{
+    border-radius: 5px;
+    
     padding: 7px 25px;
     font-size: 15px;
     margin: 0px ,10px;
